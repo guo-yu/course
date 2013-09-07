@@ -1,0 +1,22 @@
+{
+  "name": "course",
+  "version": "0.0.0",
+  "description": "a smart and strong course manage system",
+  "logo": "https://cdn1.iconfinder.com/data/icons/woocons1/Black%20Board.png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/course.git"
+  },
+  "keywords": [
+    "course"
+  ],
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/course/issues"
+  }
+}
